@@ -66,6 +66,7 @@ function FeedbackForm() {
         <Card>
             <form onSubmit={handleSubmit}>
                 <h2>How would you rate our service?</h2>
+                <p>{JSON.stringify(feedbackEdit)}</p>
                 <RatingSelect changeRating={(rating)=>setRating(rating)} />
                 <div className="input-group">
                     <input type="text"
