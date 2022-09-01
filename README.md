@@ -1,3 +1,7 @@
+# Quick Note:
+- This repository contains the projects lectured in 'React Front To Back 2022' on Udemy created by 'Brad Traversy'.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
